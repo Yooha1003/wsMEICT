@@ -8,3 +8,4 @@ This calculation is based on a previous paper below.
 Reference:
 Poser BA and Norris DG. Investigating the benefits of multi-echo EPI for FMRI at 7 T. NeuroImage. 2009;45:1162 - 1172.
 
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
